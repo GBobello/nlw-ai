@@ -17,7 +17,7 @@ Content-Type: audio/mpeg
 ###
 
 # @name create-transcription
-POST http://localhost:3333/videos/17b274b3-a112-448b-93c6-58438ddedc26/transcription
+POST http://localhost:3333/videos/feb44c7a-0102-40fd-9c84-19403677fe5a/transcription
 Content-Type: application/json
 
 {
